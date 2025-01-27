@@ -12,36 +12,45 @@ Los 44 atributos de la base son los siguientes y corresponden a la siguiente inf
 + **TIPO_NIVEL:**          
 + **NIVEL:**  
 + **DEP_NAC:**  
-+ **COD_DEP_NAC:**  
++ **COD_DEP_NAC:**
 + **CIU_NAC:**  
 + **COD_CIU_NAC:**  
 + **LON_CIU_NAC:**  
 + **LAT_CIU_NAC:**  
+
 + **DEP_PROC:**  
-+ **COD_DEP_PROC:**  
++ **COD_DEP_PROC:**
+
 + **CIU_PROC:**  
 + **COD_CIU_PROC:**  
 + **LON_CIU_PROC:**  
 + **LAT_CIU_PROC:**  
+
 + **CODS_NAC:**  
 + **CODN_NAC:**  
-+ **NACIONALIDAD:**  
++ **NACIONALIDAD:** 
+
 + **EDAD:**  
 + **SEXO:**  
 + **ESTRATO:**  
 + **TIPO_COL:**  
 + **PBM:**  
-+ **MAT_PVEZ:**  
++ **MAT_PVEZ:** 
+
 + **SNIES_SEDE_ADM:**  
 + **SEDE_NOMBRE_ADM:**  
+
 + **SNIES_SEDE_MAT:**  
 + **SEDE_NOMBRE_MAT:**  
+
 + **ADM_PEAMA_ANDINA**  
+
 + **MOD_ADM:**  
 + **TIPO_ADM:**  
 + **PAES:**  
 + **PEAMA:**  
-+ **MOV_PEAMA:**  
++ **MOV_PEAMA:**
+  
 + **CONVENIO:**  
 + **TIP_CONVENIO:**  
 + **FACULTAD:**  
@@ -79,6 +88,6 @@ TODO: mirar si se puede unir todos los atributos relativos a admisiones especial
 
 
 
-#_______
+#_______  
 primeramente se va a reducir la dimension de la base de datos de Matriculados, pues a simple vista 
 se nota que existen varios atributos que corresponden a la misma información  

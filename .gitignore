@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 Estudiantes_Graduados.csv
+*.csv

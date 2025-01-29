@@ -9,10 +9,13 @@ Los 44 atributos de la base son los siguientes y corresponden a la siguiente inf
 
 + **YEAR:**  
 + **SEMESTRE:**  
+
 + **TIPO_NIVEL:**          
 + **NIVEL:**  
+
 + **DEP_NAC:**  
 + **COD_DEP_NAC:**
+
 + **CIU_NAC:**  
 + **COD_CIU_NAC:**  
 + **LON_CIU_NAC:**  

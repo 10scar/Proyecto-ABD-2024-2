@@ -172,3 +172,6 @@ cython_debug/
 Estudiantes_Graduados.csv
 *.csv
 ne_110m_admin_0_countries/
+Servicio-90/
+*.zip
+Carto100000_Colombia_DI_2022_shp/
